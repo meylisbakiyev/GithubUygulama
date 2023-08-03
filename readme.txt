@@ -1,0 +1,1 @@
+Ilk projemiz baslatildi ve ilk commit yapildi
